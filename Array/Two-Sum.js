@@ -7,6 +7,3 @@ var twoSum = function (nums, target) {
     }
   }
 };
-
-const output = twoSum([2, 7, 11, 15], 9);
-console.log(output);
